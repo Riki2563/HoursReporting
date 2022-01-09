@@ -1,0 +1,12 @@
+C:\users\yehudit\source\repos\Malam.Digital.BaseWebApi\Mala.Digital.Base.Entities\obj\Debug\netcoreapp2.2\Mala.Digital.Base.Entities.csproj.CoreCompileInputs.cache
+C:\users\yehudit\source\repos\Malam.Digital.BaseWebApi\Mala.Digital.Base.Entities\obj\Debug\netcoreapp2.2\Mala.Digital.Base.Entities.AssemblyInfoInputs.cache
+C:\users\yehudit\source\repos\Malam.Digital.BaseWebApi\Mala.Digital.Base.Entities\obj\Debug\netcoreapp2.2\Mala.Digital.Base.Entities.AssemblyInfo.cs
+C:\users\yehudit\source\repos\Malam.Digital.BaseWebApi\Mala.Digital.Base.Entities\obj\Debug\netcoreapp2.2\EFCoreSqlServerNetTopologySuite.cs
+c:\users\yehudit\source\repos\Malam.Digital.BaseWebApi\Mala.Digital.Base.Entities\obj\Debug\netcoreapp2.2\Mala.Digital.Base.Entities.csprojResolveAssemblyReference.cache
+c:\users\yehudit\source\repos\Malam.Digital.BaseWebApi\Mala.Digital.Base.Entities\bin\Debug\netcoreapp2.2\Malam.Digital.Base.Entities.deps.json
+c:\users\yehudit\source\repos\Malam.Digital.BaseWebApi\Mala.Digital.Base.Entities\bin\Debug\netcoreapp2.2\Malam.Digital.Base.Entities.runtimeconfig.json
+c:\users\yehudit\source\repos\Malam.Digital.BaseWebApi\Mala.Digital.Base.Entities\bin\Debug\netcoreapp2.2\Malam.Digital.Base.Entities.runtimeconfig.dev.json
+c:\users\yehudit\source\repos\Malam.Digital.BaseWebApi\Mala.Digital.Base.Entities\bin\Debug\netcoreapp2.2\Malam.Digital.Base.Entities.dll
+c:\users\yehudit\source\repos\Malam.Digital.BaseWebApi\Mala.Digital.Base.Entities\bin\Debug\netcoreapp2.2\Malam.Digital.Base.Entities.pdb
+c:\users\yehudit\source\repos\Malam.Digital.BaseWebApi\Mala.Digital.Base.Entities\obj\Debug\netcoreapp2.2\Malam.Digital.Base.Entities.dll
+c:\users\yehudit\source\repos\Malam.Digital.BaseWebApi\Mala.Digital.Base.Entities\obj\Debug\netcoreapp2.2\Malam.Digital.Base.Entities.pdb

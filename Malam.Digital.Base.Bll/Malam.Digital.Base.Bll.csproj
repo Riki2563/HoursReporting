@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>Malam.Digital.Base.Bll</RootNamespace>
+  </PropertyGroup>
+
+ 
+
+  <ItemGroup>
+    <PackageReference Include="CorePush" Version="2.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="CryptoHelper" Version="3.0.2" />
+    <PackageReference Include="Microsoft.Extensions.Identity.Core" Version="2.2.0" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="5.3.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Malam.Digital.Base.Entities\Malam.Digital.Base.Entities.csproj" />
+  </ItemGroup>
+
+ 
+</Project>
